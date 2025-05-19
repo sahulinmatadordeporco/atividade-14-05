@@ -1,5 +1,24 @@
 {
+  "name": "atividade-12.05",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sahulinmatadordeporco/atividade-14-05#readme",
+  "bugs": {
+    "url": "https://github.com/sahulinmatadordeporco/atividade-14-05/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahulinmatadordeporco/atividade-14-05.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "devDependencies": {}
 }
